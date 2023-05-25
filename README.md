@@ -1,10 +1,11 @@
 ### Hi there, I'm Ana 👋
 
-#### I'm a junior android developer from Brazil with a previous professional experience in movies post-production.</h3>
+#### I'm a junior android developer from Brazil passionate for knowledge with an unuasual professional background in movies post-production.
+#### Currently studying Environmental Sciences, I'm seeking to use technology for innovative solutions in this field. </h3>
 
 - 🔭 I’m currently working on **My Research App**
 
-- 🌱 I’m currently learning **Flutter and Python**
+- 🌱 I’m currently learning **Flutter, Python and QGIS**
 
 #### Connect with me!
 <p align="left">
