@@ -1,7 +1,7 @@
 ### Hi there, I'm Ana 👋
 
-#### I'm a junior android developer from Brazil passionate for knowledge with an unuasual professional background in movies post-production.
-#### Currently studying Environmental Sciences, I'm seeking to use technology for innovative solutions in this field. </h3>
+#### I'm a junior android developer from Brazil passionate for knowledge with an unusual professional background in movies post-production and Environmental Sciences.
+
 
 - 🔭 I’m currently working on **My Research App**
 
